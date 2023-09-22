@@ -1,7 +1,6 @@
 # Checking-up-on-you-program-app
 User enters the asked inputs and from there on, he or she interacts with the program.
 
-![check 1](https://github.com/watchout254/Checking-up-on-you-program-app/assets/88248852/4351606c-24d4-444a-9b60-2666bb924572)
 
 ![check 2](https://github.com/watchout254/Checking-up-on-you-program-app/assets/88248852/02190fa2-c064-46c2-a876-2ce9eba3413f)
 
