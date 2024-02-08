@@ -1,4 +1,4 @@
-#daily check on you program
+
 import sys
 
 print("\t\t\t\t😊 😇WELCOME TO CHECK ON YOU APP 🙂 🙃.")
